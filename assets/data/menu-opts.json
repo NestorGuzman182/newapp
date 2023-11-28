@@ -1,0 +1,193 @@
+[
+  {
+    "id": "inicio",
+    "title": "Inicio",
+    "iconSrc": "inicio.svg",
+    "contrato": "ALL",
+    "redirectTo": "/home",
+    "firebase": "clic_menu_home",
+    "tipoMenu": "slide"
+  },
+  {
+    "id": "mis-consumos",
+    "title": "Mis Consumos",
+    "iconSrc": "mis-consumos.svg",
+    "contrato": "ALL",
+    "redirectTo": "/menu/mis-consumos",
+    "firebase": "clic_menu_consumptions"
+  },
+  {
+    "id": "mis-facturas",
+    "title": "Mis Facturas",
+    "iconSrc": "mis-facturas.svg",
+    "contrato": "HIBRID|HIBRID-HOME",
+    "redirectTo": "/mis-facturas",
+    "firebase": "clic_menu_paymybill",
+    "tipoMenu": "slide"
+  },
+  {
+    "id": "mi-cuenta",
+    "title": "Mi Cuenta",
+    "iconSrc": "mi-cuenta.svg",
+    "contrato": "ALL",
+    "redirectTo": "mi-cuenta",
+    "firebase": "clic_menu_myaccount",
+    "tipoMenu": "all"
+  },
+  {
+    "id": "mide-tu-señal",
+    "title": "Mide Tu Señal",
+    "iconSrc": "mide-tu-senal.svg",
+    "contrato": "ALL",
+    "redirectTo": "/mide-tu-senal",
+    "firebase": "clic_menu_mide_tu_señal",
+    "tipoMenu": "all"
+  },
+  {
+    "id": "segundo-plan",
+    "title": "Segundo Plan",
+    "iconSrc": "segundo-plan.svg",
+    "contrato": "HIBRID",
+    "redirectTo": "/segundo-plan",
+    "firebase": "clic_boton_adquiere_segunda_linea",
+    "tipoMenu": "all"
+  },
+  {
+    "id": "recargas",
+    "title": "Recargas",
+    "iconSrc": "recargas.svg",
+    "contrato": "PREPAID",
+    "redirectTo": "/recargas",
+    "firebase": "clic_menu_topupspackages",
+    "tipoMenu": "all"
+  },
+  {
+    "id": "paquetes",
+    "title": "Paquetes",
+    "iconSrc": "paquetes.svg",
+    "contrato": "PREPAID",
+    "redirectTo": "/paquetes",
+    "firebase": "clic_menu_packages",
+    "tipoMenu": "all"
+  },
+  {
+    "id": "recargas-paquetes",
+    "title": "Recargas y Paquetes",
+    "iconSrc": "recargas-paquetes.svg",
+    "contrato": "ALL",
+    "redirectTo": "recargas-paquetes",
+    "firebase": "clic_menu_topupspackages",
+    "tipoMenu": "slide"
+  },
+  {
+    "id": "roaming",
+    "title": "Roaming internacional",
+    "iconSrc": "roaming.svg",
+    "contrato": "HIBRID",
+    "redirectTo": "/roaming",
+    "firebase": "clic_menu_roaming",
+    "tipoMenu": "slide"
+  },
+  {
+    "id": "configura-tu-apn",
+    "title": "Configura tu APN",
+    "iconSrc": "configura-tu-apn.svg",
+    "contrato": "HIBRID",
+    "redirectTo": "/menu/configura-tu-apn",
+    "firebase": "clic_menu_roaming"
+  },
+  {
+    "id": "mapa-de-tiendas",
+    "title": "Mapa de Tiendas",
+    "iconSrc": "mapa-de-tiendas.svg",
+    "contrato": "HIBRID",
+    "redirectTo": "/menu/mapa-de-tiendas",
+    "firebase": "clic_menu_roaming"
+  },
+  {
+    "id": "preguntas-frecuentes",
+    "title": "Preguntas Frecuentes",
+    "iconSrc": "preguntas-frecuentes.svg",
+    "contrato": "HIBRID",
+    "redirectTo": "/menu/preguntas-frecuentes",
+    "firebase": "clic_menu_roaming"
+  },
+  {
+    "id": "configura-tu-apn",
+    "title": "Configura tu APN",
+    "iconSrc": "configura-tu-apn.svg",
+    "contrato": "HIBRID",
+    "redirectTo": "/menu/configura-tu-apn",
+    "firebase": "clic_menu_roaming"
+  },
+  {
+    "id": "mapa-de-tiendas",
+    "title": "Mapa de Tiendas",
+    "iconSrc": "mapa-de-tiendas.svg",
+    "contrato": "HIBRID",
+    "redirectTo": "/menu/mapa-de-tiendas",
+    "firebase": "clic_menu_roaming"
+  },
+  {
+    "id": "preguntas-frecuentes",
+    "title": "Preguntas Frecuentes",
+    "iconSrc": "preguntas-frecuentes.svg",
+    "contrato": "HIBRID",
+    "redirectTo": "/menu/preguntas-frecuentes",
+    "firebase": "clic_menu_roaming"
+  },
+  {
+    "id": "planes-equipos",
+    "title": "Planes y Equipos",
+    "iconSrc": "planes-equipos.svg",
+    "contrato": "HIBRID",
+    "redirectTo": "/planes-equipos",
+    "firebase": "clic_menu_plansdevices",
+    "tipoMenu": "slide"
+  },
+  {
+    "id": "mapa-tiendas",
+    "title": "Mapa de Tiendas",
+    "iconSrc": "mapa-tiendas.svg",
+    "contrato": "ALL",
+    "redirectTo": "/mapa-tiendas",
+    "firebase": "clic_menu_storemap",
+    "tipoMenu": "slide"
+  },
+  {
+    "id": "mis-pedidos",
+    "title": "Mis Pedidos",
+    "iconSrc": "mis-pedidos.svg",
+    "contrato": "ALL",
+    "redirectTo": "/mis-pedidos",
+    "firebase": "",
+    "tipoMenu": "slide"
+  },
+  {
+    "id": "preguntas-frecuentes",
+    "title": "Preguntas Frecuentes",
+    "iconSrc": "preguntas-frecuentes.svg",
+    "contrato": "ALL",
+    "redirectTo": "/preguntas-frecuentes",
+    "firebase": "clic_menu_faq",
+    "tipoMenu": "slide"
+  },
+  {
+    "id": "calificar",
+    "title": "Califícanos",
+    "iconSrc": "calificar.svg",
+    "contrato": "ALL",
+    "redirectTo": "/preguntas",
+    "firebase": "",
+    "tipoMenu": "slide"
+  },
+  {
+    "id": "configurar-apn",
+    "title": "Configura tu APN",
+    "iconSrc": "configurar-apn",
+    "contrato": "ALL",
+    "redirectTo": "/configura-tu-apn",
+    "firebase": "",
+    "tipoMenu": "talbar"
+  }
+]
